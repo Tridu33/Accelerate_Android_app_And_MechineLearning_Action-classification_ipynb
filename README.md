@@ -1,2 +1,8 @@
 # Accelerate_Android_app_And_MechineLearning_Action-classification_ipynb
 Accelerate_Android_app_And_MechineLearning_Action classification_ipynb
+
+三轴加速度传感器
+
+android 监听测试手机三轴加速度传感器，记录选定时间内最大的合加速度，通过输入手机质量测出来手机所受最大合外力（根据牛顿第二第三定律）
+
+使用测到的4类不同动作的三轴加速度床传感器数据，使用MLP全连接神经网络进行动作识别，和数据处理的改进。
